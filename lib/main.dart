@@ -28,8 +28,9 @@ class ProfileScreen extends StatelessWidget {
       appBar: AppBar(
         title: const Text('Profile App'),
         centerTitle: true,
-        backgroundColor: Color.fromARGB(220, 255, 210, 210),
+        backgroundColor: Color.fromARGB(220, 255, 212, 212),
       ),
+      backgroundColor: const Color.fromARGB(255, 255, 255, 255),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [

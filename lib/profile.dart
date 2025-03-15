@@ -28,7 +28,7 @@ class ProfileCard extends StatelessWidget {
         borderRadius: BorderRadius.circular(15), // มุมโค้งมน
         boxShadow: [
           BoxShadow(
-            color: Colors.black.withOpacity(0.1), // เงาสีดำแบบโปร่งแสง
+            color: Colors.black.withOpacity(0.2), // เงาสีดำแบบโปร่งแสง
             spreadRadius: 2,
             blurRadius: 10,
             offset: Offset(0, 4),
